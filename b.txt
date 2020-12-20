@@ -1,2 +1,6 @@
 lksadfjlkasdjflsdjfl;kfkadjslkfjlkajsf;jdlskfafj
+<<<<<<< HEAD
 rockie
+=======
+a
+>>>>>>> Agregue una a
